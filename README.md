@@ -11,12 +11,8 @@
 
 -   **Backend:** PHP, Laravel , Livewire
 -   **Frontend:** HTML, CSS, JavaScript, Alpine.js, AJAX
--   **Database:** [MySQL, Sqlite]
+-   **Database:** [MySQL, SQLite]
 -   **Other:** [RESTful APIs]
-
-## 📊 GitHub Stats
-
-[![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafafci&layout=compact&theme=dark)](https://github.com/mustafafci)
 
 
 ## 🔗 Connect with Me
