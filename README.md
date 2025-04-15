@@ -16,13 +16,12 @@
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafafci&show_icons=true&theme=dark)](https://github.com/mustafafci)
 [![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafafci&layout=compact&theme=dark)](https://github.com/mustafafci)
 
 
 ## 🔗 Connect with Me
 
--   [email]([mustafa.mahmoud.fci@gmail.com])
+-   mustafa.mahmoud.fci@gmail.com
 
 ---
 
